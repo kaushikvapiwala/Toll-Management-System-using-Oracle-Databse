@@ -4,7 +4,7 @@ The project is a miniscule version of automatic toll sytem. The motive of the pr
 It uses Oracle Database system and procedural language is to create the features mentioned in the documentation.
 Some of the features are interdependent which helps in understanding the working of functions and procedures in the database system.
 <br>
-Please read the documentations and project report if you wish to understand the project in detail. <br>
+Please read the documentations and project report if you wish to understand the project in detail. <br><br>
 <b>Steps to run the project:</b><br>
 1. Setup Oracle database.<br>
 2. Run "Database Creation Queries.sql" <br>
